@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="interface_tutorial.CentralTraffic"/>
+    <fullyQualifiedTypeName name="interface_tutorial.ContinentalTraffic"/>
+    <fullyQualifiedTypeName name="interface_tutorial.PhilippineTraffic"/>
+    <fullyQualifiedTypeName name="abstraction.ParentAirCraft"/>
+    <fullyQualifiedTypeName name="abstraction.ChildEmirates"/>
+    <fullyQualifiedTypeName name="inheritance.ParentClass"/>
+    <fullyQualifiedTypeName name="inheritance.ChildClass"/>
+    <fullyQualifiedTypeName name="function_overloading.MainClass"/>
+    <fullyQualifiedTypeName name="function_overloading.SubClass"/>
+</qualifiedTypeNameHistroy>

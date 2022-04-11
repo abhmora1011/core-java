@@ -1,0 +1,16 @@
+package arrays;
+
+public class CiscoInterview {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+		int abc[][] = {{-1,4,5},{3,-10,0},{1,2,9}};
+		
+		
+		
+
+	}
+
+}

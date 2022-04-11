@@ -1,0 +1,23 @@
+package function_overloading;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		MainClass obj = new MainClass();
+		
+	}
+	
+	public void getSample(int a) {
+		
+	}
+	
+	public void getSample(String a) {
+		
+	}
+
+	public void getSample(String a, int b) {
+	
+	}
+	
+}

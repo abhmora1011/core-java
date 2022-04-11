@@ -1,0 +1,9 @@
+package interface_tutorial;
+
+public interface CentralTraffic {
+	
+	public greenGo();
+	
+	
+
+}

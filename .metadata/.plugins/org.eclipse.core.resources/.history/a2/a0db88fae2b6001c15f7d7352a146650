@@ -1,0 +1,27 @@
+package abstraction;
+
+public class ChildEmirates extends ParentAirCraft{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ChildEmirates c = new ChildEmirates();
+		/*
+		 * Sa interface hindi tayo makakagawa ng obj kung hindi galing sa parent ang initialization
+		 * while sa abstract since nakaextend lang sya lahat ng method makikita natin kahit hindi sya
+		 * nakainitialize sa parent
+		 * 
+		 */
+		c.engine();
+		c.safetyGuidelines();
+		c.bodyColor();
+
+	}
+
+	@Override
+	public void bodyColor() {
+		// TODO Auto-generated method stub
+		System.out.println("Red color on the body");
+	}
+
+}

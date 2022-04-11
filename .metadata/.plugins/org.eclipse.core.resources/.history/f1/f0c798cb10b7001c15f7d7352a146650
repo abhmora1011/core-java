@@ -1,0 +1,13 @@
+package inheritance;
+
+public class ParentClass {
+
+	public static void main(String[] args) {
+		
+		String color = "red";
+		
+		
+
+	}
+
+}

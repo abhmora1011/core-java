@@ -1,0 +1,28 @@
+package interface_tutorial;
+
+public class PhilippineTraffic implements CentralTraffic{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void greenGo() {
+		// TODO Auto-generated method stub
+		System.out.println("");
+	}
+
+	@Override
+	public void redStop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void yellowFlash() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

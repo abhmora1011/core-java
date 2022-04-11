@@ -1,0 +1,13 @@
+package inheritance;
+
+public class Sibling{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ParentClass a = new ChildClass();
+		
+		//ChildClass a = new ChildClass();
+		System.out.println(a.sample);
+	}
+
+}
