@@ -1,0 +1,15 @@
+package super_keyword;
+
+public class ParentDemo {
+	
+	String name = "Abraham";
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+	
+		
+	}
+
+}

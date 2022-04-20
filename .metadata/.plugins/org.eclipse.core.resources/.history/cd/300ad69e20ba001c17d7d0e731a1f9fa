@@ -1,0 +1,19 @@
+package static_nonstatic;
+
+public class StaticVar {
+
+	String name;
+	String address;
+	String city;
+	
+	public StaticVar() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		StaticVar obj =  new StaticVar();
+
+	}
+
+}

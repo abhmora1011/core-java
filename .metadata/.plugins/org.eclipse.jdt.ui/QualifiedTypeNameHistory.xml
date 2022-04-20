@@ -9,4 +9,15 @@
     <fullyQualifiedTypeName name="inheritance.ChildClass"/>
     <fullyQualifiedTypeName name="function_overloading.MainClass"/>
     <fullyQualifiedTypeName name="function_overloading.SubClass"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="constructor.Constructor"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="super_keyword.ChildDemo"/>
+    <fullyQualifiedTypeName name="super_keyword.ParentDemo"/>
+    <fullyQualifiedTypeName name="this_keyword.ThisDemo"/>
+    <fullyQualifiedTypeName name="static_nonstatic.StaticVar"/>
+    <fullyQualifiedTypeName name="exceptions.ExceptionDemo"/>
 </qualifiedTypeNameHistroy>

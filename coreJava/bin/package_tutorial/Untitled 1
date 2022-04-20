@@ -1,0 +1,18 @@
+Package -  set of classess interfaces
+
+java.lang - Default Package
+
+java.util - collection of interfaces
+
+import package.classname
+
+User defined java packages
+
+1. Class A can use Class B directly by creating object if both Class A and Class B belongs to same package
+
+public, private, protected, default
+
+Default: declarations are visible only within the package (package private)
+Private: declarations are visible within the class only
+Protected: declarations are visible within the package or all subclasses
+Public: declarations are visible everywhere

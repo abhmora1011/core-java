@@ -1,0 +1,16 @@
+package super_keyword;
+
+public class ChildDemo extends ParentDemo{
+
+	public void getStringData() {
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+	}
+
+}

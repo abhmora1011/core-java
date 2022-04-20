@@ -1,0 +1,17 @@
+package constructor;
+
+public class Constructor {
+	
+	/*
+	 * Block of code is executed when an object is created
+	 */
+	
+	public Constructor() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

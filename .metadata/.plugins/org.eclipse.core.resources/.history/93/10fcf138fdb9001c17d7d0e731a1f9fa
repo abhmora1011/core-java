@@ -1,0 +1,21 @@
+package constructor;
+
+public class Constructor {
+	
+	/*
+	 * Block of code is executed when an object is created
+	 */
+	
+	public Constructor() {
+		System.out.println("I'm the constructor");
+	}
+	
+	public void getData() {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

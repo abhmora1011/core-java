@@ -1,0 +1,32 @@
+package static_nonstatic;
+
+public class StaticVar {
+
+	// instance variables
+	String name;
+	String address;
+	// When you declare it static it will be shared to the obj and you not need to initialize
+	// All static variables are class variables
+	static String city = "Navotas"; 
+	static int i = 0;
+	
+	public StaticVar(String name, String address) {
+		this.name = name;
+		this.address = address;
+		
+	}
+	
+	public void getAddress() {
+		System.out.println(address + " " + city);
+	}
+	
+	public static void main(String[] args) {
+		
+		StaticVar obj =  new StaticVar("Abe","Cavite");
+		StaticVar obj2 =  new StaticVar("Gale","Metro Manila");
+		obj.getAddress();
+		obj2.getAddress();
+		
+	}
+
+}

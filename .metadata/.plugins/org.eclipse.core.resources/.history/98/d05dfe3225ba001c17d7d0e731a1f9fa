@@ -1,0 +1,29 @@
+package static_nonstatic;
+
+public class StaticVar {
+
+	// instance variables
+	String name;
+	String address;
+	static String city; // When you declare it static it will be shared to the obj and you not 
+	
+	public StaticVar(String name, String address, String city) {
+		this.name = name;
+		this.address = address;
+		this.city = city;
+	}
+	
+	public void getAddress() {
+		System.out.println(address);
+	}
+	
+	public static void main(String[] args) {
+		
+		StaticVar obj =  new StaticVar("Abe","Cavite","Navotas");
+		StaticVar obj2 =  new StaticVar("Gale","Metro Manila","Navotas");
+		obj.getAddress();
+		obj2.getAddress();
+		
+	}
+
+}
